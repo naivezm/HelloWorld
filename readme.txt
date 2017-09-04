@@ -1,6 +1,7 @@
 text my git leaarning
 git is free software
-git is good
+git iss` good
 sdsa
 sdsad
 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDD26WtIh3ihQaF/p9q34XJ45rK+erPBA2ZMeJaEQ49wS8PufVh+/yqZLY1hxSqAopaNMwumNNxyUSt97LS6NMSAksk5TCu+NkXVRsMht4NVWDNubwK0QZEpvuTxwyyRfFJc8R7DRQ5ossh8JDpPB74ydJw2uFJQ8X02A4rpOnc5K2aWhrclX0cX0MfPIF8rnnJENAeUbjsr6fnYfdcfftZp8F7pzXuBXxtMFKRs3v120VXCil6xNOo7hUZvTCynJk8ZTLqpuPC8zzrs7mcIhRXt/G8YiYsNCrXellOtmlnD9lSPVVwjkUr/0Nl4eicPu6AtiLhY/59ir0rhOgQqf9j jack_wang_jie@gmail.com
