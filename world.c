@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
-	printf("delete and modify");
+	int a = 12;
+	printf("delete and modify"+a);
 	return 0;
 }
