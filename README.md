@@ -19,6 +19,7 @@
 ### 2.1 git 工作区
 
 > 对 git 工作区的理解
+
 区域 | 方法
 ---|---
 工作区 |  git status git add test.php 提交到暂存区
