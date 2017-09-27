@@ -144,7 +144,7 @@ master第一次推送master分支的所有内容；
 #此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改；
 ```
 
-## 4. git 分支
+## 3. git 分支
 
 - Git鼓励大量使用分支
 
