@@ -74,6 +74,7 @@ git diff HEAD --a1.php
 ```
 
 ![图片](http://om0ttwn6c.bkt.clouddn.com/4KLK$7CI%5BK_@O8%7DWU80%28LQ2.png)
+
 5.向仓库中删除文件
 
 ```bash
@@ -83,6 +84,7 @@ git commit -m "message"
 ```
 
 ![图片](http://om0ttwn6c.bkt.clouddn.com/2V%28I5PW%7B2$9P6%5B7@JGIJ$OH.png)
+
 6. 版本切换
 
 ```bash
@@ -99,6 +101,7 @@ git reset HEAD file
 ```
 
 ![图片](http://om0ttwn6c.bkt.clouddn.com/WF_%28O%7B51W08RAW%5B5FQT8SM2.png)
+
 7.查看各个版本库状态
 
 ```bash
@@ -132,6 +135,7 @@ git push origin master
 ```
 
 ![图片](http://om0ttwn6c.bkt.clouddn.com/TRD%29@K$9_NYPS2QKXQ%25%28CAM.png)
+
 3.关联远程仓库
 
 ```bash
@@ -169,6 +173,7 @@ master第一次推送master分支的所有内容；
 - 用`git log --graph`命令可以看到分支合并图。
 
 ![图片](http://om0ttwn6c.bkt.clouddn.com/%7B$$BLRRM96N98%60L2RD7%29%28BS.png)
+
 - Git分支十分强大，在团队开发中应该充分应用。
 
 - 合并分支时，加上`--no-ff`参数就可以用普通模式合并，合并后的历史有分支，能看出来曾经做过合并，而`fast forward`合并就看不出来曾经做过合并。`git merage
